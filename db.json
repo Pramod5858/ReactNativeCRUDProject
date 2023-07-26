@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Dell Laptop",
+      "price": 50000,
+      "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-3420/media-gallery/peripherals_laptop_latitude_3420nt_gallery_1.psd?fmt=png-alpha&pscan=auto&scl=1&hei=402&wid=555&qlt=100,1&resMode=sharp2&size=555,402&chrss=full"
+    },
+    {
+      "id": 2,
+      "name": "Lenovo Laptop",
+      "price": 45000,
+      "image": "https://www.lenovo.com/medias/lenovo-laptops-thinkpad-e14-gen-4-14-intel-series.png?context=bWFzdGVyfHJvb3R8NDYxNzAxfGltYWdlL3BuZ3xoNDEvaDM2LzE0NTI0NzA3NjY3OTk4LnBuZ3xkMTUzMDNmZWEzMjRmMjg2MDNhMDkxY2UzYjRmNDBmMTg1ODlkZDZkYjY0ZjU2MDA2NTJlNWViOWY3NTBhNGQ1"
+    },
+    {
+      "id": 3,
+      "name": "HP Laptop",
+      "price": 47000,
+      "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c06251847.png"
+    },
+    {
+      "id": 4,
+      "name": "Asus Laptop",
+      "price": 46000,
+      "image": "https://dlcdnwebimgs.asus.com/gain/1184b48b-1b10-462f-a4c1-d43852a64163/"
+    }
+  ]
+}
